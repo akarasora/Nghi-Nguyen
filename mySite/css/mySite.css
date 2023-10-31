@@ -1,0 +1,57 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Josefin+Sans:ital,wght@1,100&family=Sacramento&display=swap');
+
+#hea{
+    font-family: 'Josefin Sans', sans-serif;
+}
+#hero, #abt{
+    background-color: rgb(32, 32, 32);
+}
+
+#bio{
+    background-color: rgb(117, 0, 0);
+    letter-spacing: 5px;
+}
+
+#portfolio{
+    background-color: rgb(32, 32, 32) ;
+
+}
+
+#ib{
+   background-image: url(../images/ILLUSTRANTIONBANNER.png); 
+   animation: 1s linear infinite;
+   background-position: 0 0;
+
+}
+
+#gdb{
+
+}
+
+.social{
+    float: left;
+  padding: 5px;
+}
+
+#abt1{
+    float: right;
+  padding: 5px;
+}
+
+body{
+    background-color: rgb(32, 32, 32);
+    font-family: 'Dosis', sans-serif;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    font-family: 'Lilita One', sans-serif;
+}
+footer{
+    background-color: rgb(117, 0, 0);
+
+}
